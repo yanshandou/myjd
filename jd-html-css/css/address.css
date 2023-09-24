@@ -1,0 +1,62 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.container .head {
+  height: 11.7333vw;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4.8vw;
+}
+.container .head .iconfont {
+  color: #b6b6b6;
+}
+.container .head .title {
+  font-size: 4.2667vw;
+  color: #333333;
+}
+.container .head .button {
+  font-size: 3.7333vw;
+  color: #333333;
+}
+.container .title {
+  margin: 3.2vw 0;
+  padding-left: 4.8vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+}
+.container .address-list .address-item {
+  width: 90.4vw;
+  height: 27.7333vw;
+  background: #ffffff;
+  border-radius: 1.0667vw;
+  margin: 0 auto 4.2667vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4.2667vw;
+}
+.container .address-list .address-item .left .top {
+  margin-bottom: 2.1333vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #999999;
+}
+.container .address-list .address-item .left .top .username {
+  margin-right: 17.6vw;
+}
+.container .address-list .address-item .left .bottom .address-info {
+  width: 69.3333vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+  line-height: 5.8667vw;
+}
+.container .address-list .address-item .right .iconfont {
+  font-size: 4.2667vw;
+  color: #999999;
+}

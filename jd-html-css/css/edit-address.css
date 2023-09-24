@@ -1,0 +1,61 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.container .head {
+  height: 11.7333vw;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4.8vw;
+}
+.container .head .iconfont {
+  color: #b6b6b6;
+}
+.container .head .title {
+  font-size: 4.2667vw;
+  color: #333333;
+}
+.container .head .button {
+  font-size: 3.7333vw;
+  color: #333333;
+}
+.container .info {
+  margin-top: 3.2vw;
+  height: 59.7333vw;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.container .info .gap {
+  width: 90.4vw;
+  height: 0.2667vw;
+  background: #f1f1f1;
+  margin: 0 auto;
+}
+.container .info .item {
+  padding-left: 4.8vw;
+}
+.container .info .item .text {
+  font-size: 3.7333vw;
+  color: #666666;
+  line-height: 5.3333vw;
+}
+.container .info .item .input-item {
+  font-size: 3.7333vw;
+  color: #333333;
+  line-height: 5.3333vw;
+}
+.container .info .item .input-item::-moz-placeholder {
+  font-size: 3.7333vw;
+  color: #999999;
+  line-height: 5.3333vw;
+}
+.container .info .item .input-item::placeholder {
+  font-size: 3.7333vw;
+  color: #999999;
+  line-height: 5.3333vw;
+}

@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1f7"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1f8"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1f9"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1fa"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1fb"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a550a4f61dfbe25c1fc"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528bc"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c207"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c208"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c209"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c20a"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c20b"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953a740a4f61dfbe25c20c"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528bd"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c212"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c213"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c214"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c215"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c216"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953aa00a4f61dfbe25c217"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528be"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c21b"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c21c"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c21d"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c21e"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c21f"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953ab50a4f61dfbe25c220"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528bf"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c224"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c225"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c226"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c227"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c228"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953aca0a4f61dfbe25c229"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528c0"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c22d"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c22e"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c22f"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c230"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c231"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953af40a4f61dfbe25c232"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528c1"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c236"
+  },
+  "name": "all",
+  "text": "全部商品",
+  "shopId": "6491b76f09314366e56528c2"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c237"
+  },
+  "name": "seckill",
+  "text": "秒杀",
+  "shopId": "6491b76f09314366e56528c2"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c238"
+  },
+  "name": "fruit",
+  "text": "新鲜水果",
+  "shopId": "6491b76f09314366e56528c2"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c239"
+  },
+  "name": "snacks",
+  "text": "休闲食品",
+  "shopId": "6491b76f09314366e56528c2"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c23a"
+  },
+  "name": "vegetable",
+  "text": "时令蔬菜",
+  "shopId": "6491b76f09314366e56528c2"
+},
+{
+  "_id": {
+    "$oid": "64953b080a4f61dfbe25c23b"
+  },
+  "name": "meat",
+  "text": "肉蛋家禽",
+  "shopId": "6491b76f09314366e56528c2"
+}]

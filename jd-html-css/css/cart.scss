@@ -1,0 +1,9 @@
+.container {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background-color: #f8f8f8;
+	@import "./head-common";
+	@import "./cart-list-common";
+}
+@import "./tabbar-common.scss";

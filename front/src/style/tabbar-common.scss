@@ -1,0 +1,41 @@
+.tabbar {
+	position: fixed;
+	bottom: 0;
+	background: #ffffff;
+	box-shadow: 0 -0.2667vw 0.2667vw 0 #f1f1f1;
+	width: 100vw;
+	height: 13.0667vw;
+	display: flex;
+	justify-content: space-evenly;
+	.item {
+		&.active {
+			color: #1fa4fc;
+			.iconfont {
+				&.one {
+					display: none;
+				}
+				&.two {
+					display: inline;
+				}
+			}
+		}
+		color: #333333;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		.iconfont {
+			font-size: 5.8667vw;
+			margin-bottom: 1.0667vw;
+			&.one {
+				display: inline;
+			}
+			&.two {
+				display: none;
+			}
+		}
+		.text {
+			font-size: 2.6667vw;
+		}
+	}
+}

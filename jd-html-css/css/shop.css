@@ -1,0 +1,386 @@
+@charset "UTF-8";
+.container {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+}
+.container .head {
+  position: relative;
+  margin-top: 4.2667vw;
+  width: 100vw;
+  height: 8.5333vw;
+  display: flex;
+  align-items: center;
+  padding: 0 4.8vw;
+}
+.container .head .icon-search {
+  position: absolute;
+  top: 1.8667vw;
+  left: 18.9333vw;
+  color: #b7b7b7;
+  font-size: 4.8vw;
+}
+.container .head .icon-left {
+  font-size: 5.8667vw;
+  color: #b6b6b6;
+  margin-right: 4.2667vw;
+}
+.container .head .search-input {
+  padding-left: 11.7333vw;
+  width: 82.6667vw;
+  background: #f5f5f5;
+  border-radius: 4.2667vw;
+  height: 8.5333vw;
+}
+.container .shop-info {
+  height: 28.2667vw;
+  width: 100vw;
+  padding: 0 4.8vw;
+  display: flex;
+  align-items: center;
+}
+.container .shop-info .left .shop-logo {
+  width: 14.9333vw;
+  margin-right: 4.2667vw;
+}
+.container .shop-info .right .shop-title {
+  font-family: PingFangSC-Regular;
+  font-size: 4.2667vw;
+  color: #333333;
+  margin-bottom: 2.1333vw;
+}
+.container .shop-info .right .tags {
+  display: flex;
+  margin-bottom: 2.1333vw;
+}
+.container .shop-info .right .tags .tag-item {
+  font-family: PingFangSC-Regular;
+  font-size: 3.4667vw;
+  color: #333333;
+  margin-right: 4.2667vw;
+}
+.container .shop-info .right .promotion {
+  font-family: PingFangSC-Regular;
+  font-size: 3.4667vw;
+  color: #e93b3b;
+}
+.container .shop-body {
+  position: fixed;
+  top: 41.0667vw;
+  left: 0;
+  right: 0;
+  bottom: 13.0667vw;
+  display: flex;
+}
+.container .shop-body .category {
+  overflow-y: auto;
+  width: 20.2667vw;
+  background-color: #f5f5f5;
+}
+.container .shop-body .category .category-item {
+  background: #f5f5f5;
+  height: 10.6667vw;
+  border-radius: 0.5333vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+  text-align: center;
+  line-height: 10.6667vw;
+}
+.container .shop-body .category .category-item.active {
+  background: #ffffff;
+  font-weight: 700;
+}
+.container .shop-body .detail {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+.container .shop-body .detail .detail-item {
+  width: 70.6667vw;
+  height: 24.5333vw;
+  padding: 3.2vw 0;
+  border-bottom: 0.2667vw solid #f1f1f1;
+  margin: 0 auto;
+  display: flex;
+}
+.container .shop-body .detail .detail-item .left .product-img {
+  width: 18.1333vw;
+  height: 18.1333vw;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-right: 4.2667vw;
+}
+.container .shop-body .detail .detail-item .right {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+.container .shop-body .detail .detail-item .right .product-title {
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 3.7333vw;
+  color: #333333;
+  margin-bottom: 1.6vw;
+}
+.container .shop-body .detail .detail-item .right .product-sale {
+  font-family: PingFangSC-Regular;
+  font-size: 3.2vw;
+  color: #333333;
+  line-height: 4.2667vw;
+  margin-bottom: 1.6vw;
+}
+.container .shop-body .detail .detail-item .right .product-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-left .current-price {
+  font-family: PingFangSC-Semibold;
+  font-weight: 900;
+  font-size: 3.7333vw;
+  color: #e93b3b;
+  line-height: 5.3333vw;
+  margin-right: 1.6vw;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-left .current-price::before {
+  content: "¥";
+  font-size: 2.6667vw;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-left .previous-price {
+  font-family: PingFangSC-Regular;
+  font-size: 2.6667vw;
+  color: #999999;
+  line-height: 5.3333vw;
+  text-decoration: line-through;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-right {
+  display: flex;
+  align-items: center;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-right .iconfont {
+  font-size: 5.8667vw;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-right .iconfont.icon-minus-circle {
+  color: #666;
+  font-size: 6.1333vw;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-right .iconfont.icon-plus-circle-fill {
+  display: inline-block;
+  transform: translateY(-0.2667vw);
+  color: #0091ff;
+}
+.container .shop-body .detail .detail-item .right .product-data .data-right .product-count {
+  margin: 0 2.6667vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+  line-height: 4.2667vw;
+}
+.container .foot {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 13.0667vw;
+  display: flex;
+  box-shadow: 0 -0.2667vw 0.2667vw 0 #f1f1f1;
+}
+.container .foot .left {
+  width: 73.8667vw;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+}
+.container .foot .left .left-title {
+  margin-left: 6.4vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+  text-align: right;
+  line-height: 13.0667vw;
+  margin-right: 1.6vw;
+}
+.container .foot .left .left-price {
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 4.2667vw;
+  color: #333333;
+  text-align: right;
+  line-height: 13.0667vw;
+}
+.container .foot .right {
+  flex-grow: 1;
+  background: #4fb0f9;
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 3.7333vw;
+  color: #ffffff;
+  text-align: center;
+  line-height: 13.0667vw;
+}
+.container .foot .left {
+  padding-left: 6.4vw;
+}
+.container .foot .left .dot {
+  position: absolute;
+  left: 12.5333vw;
+  top: 1.8667vw;
+  min-width: 2.6667vw;
+  height: 2.6667vw;
+  padding: 0.5333vw;
+  background: #e93b3b;
+  border-radius: 2.6667vw;
+  text-align: center;
+  line-height: 1.6vw;
+  color: #fff;
+  font-size: 2.1333vw;
+}
+.container .foot .left .cart-img {
+  width: 7.4667vw;
+}
+.container .foot .left .left-title {
+  font-family: PingFangSC-Regular;
+  font-size: 3.2vw;
+  color: #333333;
+  transform: translateY(0.2667vw);
+}
+.container .foot .left .left-price {
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 4.8vw;
+  color: #e93b3b;
+}
+
+.cart-mask {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 49px;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+.cart-mask .cart-info {
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+}
+.cart-mask .cart-info .cart-top {
+  width: 100vw;
+  padding: 18px;
+  height: 52px;
+  background-color: #fff;
+  border-bottom: 1px solid #f1f1f1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cart-mask .cart-info .cart-top .left {
+  display: flex;
+  align-items: center;
+}
+.cart-mask .cart-info .cart-top .left .iconfont {
+  margin-right: 8px;
+  font-size: 22px;
+}
+.cart-mask .cart-info .cart-top .left .iconfont.icon-Checkbox_unselected2 {
+  color: #666;
+}
+.cart-mask .cart-info .cart-top .left .iconfont.icon-selected {
+  color: #0091ff;
+}
+.cart-mask .cart-info .cart-top .left .text {
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #333333;
+  line-height: 16px;
+}
+.cart-mask .cart-info .cart-top .button {
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #333333;
+  text-align: right;
+  line-height: 16px;
+}
+.cart-mask .cart-info .cart-content {
+  max-height: 380px;
+  overflow-y: auto;
+}
+.cart-mask .cart-info .cart-content .cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 46px;
+  margin: 16px 0;
+  padding: 0 18px;
+}
+.cart-mask .cart-info .cart-content .cart-item .left {
+  display: flex;
+  align-items: center;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .iconfont {
+  margin-right: 16px;
+  font-size: 22px;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .iconfont.icon-Checkbox_unselected2 {
+  color: #666;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .iconfont.icon-selected {
+  color: #0091ff;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .cart-img {
+  width: 46px;
+  height: 46px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-right: 16px;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .product-info .product-title {
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  font-size: 14px;
+  color: #333333;
+  margin-bottom: 6px;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .product-info .product-data .current-price {
+  font-family: PingFangSC-Semibold;
+  font-weight: 900;
+  font-size: 3.7333vw;
+  color: #e93b3b;
+  line-height: 5.3333vw;
+  margin-right: 1.6vw;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .product-info .product-data .current-price::before {
+  content: "¥";
+  font-size: 2.6667vw;
+}
+.cart-mask .cart-info .cart-content .cart-item .left .product-info .product-data .previous-price {
+  font-family: PingFangSC-Regular;
+  font-size: 2.6667vw;
+  color: #999999;
+  line-height: 5.3333vw;
+  text-decoration: line-through;
+}
+.cart-mask .cart-info .cart-content .cart-item .right {
+  display: flex;
+  align-items: center;
+}
+.cart-mask .cart-info .cart-content .cart-item .right .iconfont {
+  font-size: 5.8667vw;
+}
+.cart-mask .cart-info .cart-content .cart-item .right .iconfont.icon-minus-circle {
+  color: #666;
+  font-size: 6.1333vw;
+}
+.cart-mask .cart-info .cart-content .cart-item .right .iconfont.icon-plus-circle-fill {
+  display: inline-block;
+  transform: translateY(-0.2667vw);
+  color: #0091ff;
+}
+.cart-mask .cart-info .cart-content .cart-item .right .product-count {
+  margin: 0 2.6667vw;
+  font-family: PingFangSC-Regular;
+  font-size: 3.7333vw;
+  color: #333333;
+  line-height: 4.2667vw;
+}

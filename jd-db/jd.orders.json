@@ -1,0 +1,579 @@
+[{
+  "_id": {
+    "$oid": "6498595f6c241a0bb236f1f2"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 5,
+      "_id": {
+        "$oid": "6498595f6c241a0bb236f1f3"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "6498595f6c241a0bb236f1f4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T15:12:31.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T15:12:31.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64985b566c241a0bb236f1f7"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 5,
+      "_id": {
+        "$oid": "64985b566c241a0bb236f1f8"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "64985b566c241a0bb236f1f9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T15:20:54.244Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T15:20:54.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64985c776c241a0bb236f1fc"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 5,
+      "_id": {
+        "$oid": "64985c776c241a0bb236f1fd"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "64985c776c241a0bb236f1fe"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T15:25:43.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T15:25:43.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64985c8c6c241a0bb236f201"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 5,
+      "_id": {
+        "$oid": "64985c8c6c241a0bb236f202"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "64985c8c6c241a0bb236f203"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T15:26:04.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T15:26:04.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64985fcf6c241a0bb236f20e"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": true,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c297",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "fruit",
+        "snacks"
+      ],
+      "cartCount": 1,
+      "_id": {
+        "$oid": "64985fcf6c241a0bb236f20f"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 1,
+      "_id": {
+        "$oid": "64985fcf6c241a0bb236f210"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 1,
+      "_id": {
+        "$oid": "64985fcf6c241a0bb236f211"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-25T15:39:59.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T15:39:59.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aeb7576d240d1bdfc758e"
+  },
+  "address": {
+    "city": "深圳市南山区111",
+    "community": "蛇口花园222",
+    "building": "海滨大厦2单元1803室333",
+    "username": "18666666666",
+    "receiveName": "张建国",
+    "phone": "13844556677"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 5,
+      "_id": {
+        "$oid": "649aeb7576d240d1bdfc758f"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "649aeb7576d240d1bdfc7590"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-27T14:00:21.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T14:00:21.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aed2176d240d1bdfc75c5"
+  },
+  "address": {
+    "city": "北京市东城区111",
+    "community": "花家地社区一号222",
+    "building": "东方明珠大厦17单元3305室",
+    "username": "18666666666",
+    "receiveName": "王晓华",
+    "phone": "13900000099"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "649aed2176d240d1bdfc75c6"
+      }
+    },
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "649aed2176d240d1bdfc75c7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-27T14:07:29.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T14:07:29.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aed4d76d240d1bdfc75ce"
+  },
+  "address": {
+    "city": "北京市东城区111",
+    "community": "花家地社区一号222",
+    "building": "东方明珠大厦17单元3305室",
+    "username": "18666666666",
+    "receiveName": "王晓华",
+    "phone": "13900000099"
+  },
+  "isCanceled": true,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c294",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄150g/份(全部)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 1,
+      "currentPrice": 1.6,
+      "previousePrice": 1.6,
+      "tags": [
+        "all"
+      ],
+      "cartCount": 3,
+      "_id": {
+        "$oid": "649aed4d76d240d1bdfc75cf"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-27T14:08:13.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T14:08:13.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aeed176d240d1bdfc77d8"
+  },
+  "address": {
+    "city": "北京市东城区111",
+    "community": "花家地社区一号222",
+    "building": "东方明珠大厦17单元3305室",
+    "username": "18666666666",
+    "receiveName": "王晓华",
+    "phone": "13900000099"
+  },
+  "isCanceled": false,
+  "id": "6491b76f09314366e56528c2",
+  "logo": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202305182132740.png",
+  "title": "永辉超市",
+  "tags": [
+    "月售1万+",
+    "起送¥0",
+    "基础运费¥5"
+  ],
+  "promotion": "VIP尊享满89元减4元运费券（每月3张）",
+  "username": "18666666666",
+  "products": [
+    {
+      "id": "649540530a4f61dfbe25c295",
+      "shopId": "6491b76f09314366e56528c2",
+      "title": "全部-番茄250g/份(全部,秒杀)",
+      "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+      "sale": 2,
+      "currentPrice": 2.6,
+      "previousePrice": 2.6,
+      "tags": [
+        "all",
+        "seckill"
+      ],
+      "cartCount": 2,
+      "_id": {
+        "$oid": "649aeed176d240d1bdfc77d9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-27T14:14:41.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T14:14:41.621Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "64481a10fb2e2b3697f351c7"
+  },
+  "username": "zhangsan",
+  "password": "123",
+  "createdAt": {
+    "$date": "2023-04-25T18:21:04.093Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T18:21:04.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64481a4a274f913e2931e0d5"
+  },
+  "username": "18666666666",
+  "password": "123",
+  "createdAt": {
+    "$date": "2023-04-25T18:22:02.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T18:22:02.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448ef23c660cf478125002e"
+  },
+  "username": "zhaoliu",
+  "password": "123456",
+  "createdAt": {
+    "$date": "2023-04-26T09:30:11.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T09:30:11.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6491aa33f9683a6ce8205c76"
+  },
+  "username": "lisi",
+  "password": "1234",
+  "createdAt": {
+    "$date": "2023-06-20T13:31:31.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-20T13:31:31.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6491abfcf9683a6ce8205c78"
+  },
+  "username": "15644444444",
+  "password": "1234",
+  "createdAt": {
+    "$date": "2023-06-20T13:39:08.786Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-20T13:39:08.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6497907aebcb23e501702af7"
+  },
+  "username": "lisisi",
+  "password": "1234",
+  "createdAt": {
+    "$date": "2023-06-25T00:55:22.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T00:55:22.633Z"
+  },
+  "__v": 0
+}]

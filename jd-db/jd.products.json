@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c240"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c241"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c242"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c243"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c244"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c245"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c246"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c247"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c248"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c249"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c24a"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c24b"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953feb0a4f61dfbe25c24c"
+  },
+  "shopId": "6491b76f09314366e56528bc",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c24e"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c24f"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c250"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c251"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c252"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c253"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c254"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c255"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c256"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c257"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c258"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c259"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64953ffc0a4f61dfbe25c25a"
+  },
+  "shopId": "6491b76f09314366e56528bd",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c25c"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c25d"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c25e"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c25f"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c260"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c261"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c262"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c263"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c264"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c265"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c266"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c267"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6495400e0a4f61dfbe25c268"
+  },
+  "shopId": "6491b76f09314366e56528be",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26a"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26b"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26c"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26d"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26e"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c26f"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c270"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c271"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c272"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c273"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c274"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c275"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540200a4f61dfbe25c276"
+  },
+  "shopId": "6491b76f09314366e56528bf",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c278"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c279"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27a"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27b"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27c"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27d"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27e"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c27f"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c280"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c281"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c282"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c283"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540340a4f61dfbe25c284"
+  },
+  "shopId": "6491b76f09314366e56528c0",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c286"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c287"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c288"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c289"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28a"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28b"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28c"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28d"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28e"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c28f"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c290"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c291"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540430a4f61dfbe25c292"
+  },
+  "shopId": "6491b76f09314366e56528c1",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c294"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄150g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 1,
+  "currentPrice": 1.6,
+  "previousePrice": 1.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c295"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,秒杀)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c296"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,秒杀,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 3,
+  "currentPrice": 3.6,
+  "previousePrice": 3.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c297"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,新鲜水果,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c298"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,休闲食品, 时令蔬菜, 肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks",
+    "vegetable",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c299"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29a"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,秒杀, 休闲食品)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "snacks"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29b"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29c"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,秒杀, 新鲜水果, 时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "seckill",
+    "fruit",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29d"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,肉蛋家禽)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "meat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29e"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,时令蔬菜)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "vegetable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c29f"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all"
+  ]
+},
+{
+  "_id": {
+    "$oid": "649540530a4f61dfbe25c2a0"
+  },
+  "shopId": "6491b76f09314366e56528c2",
+  "title": "全部-番茄250g/份(全部,新鲜水果)",
+  "img": "https://markdown-1253389072.cos.ap-nanjing.myqcloud.com/202202261527635.png",
+  "sale": 2,
+  "currentPrice": 2.6,
+  "previousePrice": 2.6,
+  "tags": [
+    "all",
+    "fruit"
+  ]
+}]

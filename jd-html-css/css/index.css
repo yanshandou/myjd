@@ -1,0 +1,201 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  overflow: auto;
+}
+.container .head {
+  background-color: #fff;
+  position: fixed;
+  height: 98px;
+  padding: 16px 18px 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container .head .head-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container .head .head-info .left {
+  display: flex;
+  align-items: center;
+}
+.container .head .head-info .left .iconfont {
+  margin-right: 9px;
+  font-size: 22px;
+}
+.container .head .head-info .left .iconfont.icon-location {
+  color: #333333;
+}
+.container .head .head-info .left .address {
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+  color: #333333;
+}
+.container .head .head-info .iconfont {
+  font-size: 22px;
+}
+.container .head .head-info .iconfont.icon-notice {
+  color: #000;
+}
+.container .head .icon-search {
+  color: #b7b7b7;
+  font-size: 18px;
+  position: absolute;
+  top: 61px;
+  left: 34px;
+}
+.container .head .head-search {
+  width: 339px;
+  height: 32px;
+  background: #f5f5f5;
+  border-radius: 16px;
+  padding-left: 44px;
+}
+.container .head .head-search::-moz-placeholder {
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #b7b7b7;
+  line-height: 16px;
+}
+.container .head .head-search::placeholder {
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #b7b7b7;
+  line-height: 16px;
+}
+.container .banner {
+  margin-top: 98px;
+  text-align: center;
+  font-size: 0;
+}
+.container .banner .banner-img {
+  width: 339px;
+  height: 86px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.container .category {
+  height: 174px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.container .category .category-row {
+  display: flex;
+  justify-content: space-evenly;
+  height: 63px;
+}
+.container .category .category-row .category-item {
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.container .category .category-row .category-item .item-img {
+  width: 40px;
+  height: 40px;
+}
+.container .category .category-row .category-item .item-title {
+  font-family: PingFangSC-Regular;
+  font-size: 12px;
+  color: #333333;
+  text-align: center;
+}
+.container .gap {
+  height: 10px;
+  width: 100vw;
+  background-color: #f1f1f1;
+}
+.container .nearby {
+  padding: 16px 18px 65px;
+}
+.container .nearby .title {
+  font-family: PingFangSC-Medium;
+  font-size: 18px;
+  color: #333333;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+.container .nearby .nearby-item {
+  height: 86px;
+  margin-bottom: 12px;
+  display: flex;
+}
+.container .nearby .nearby-item:last-child {
+  margin-bottom: 0;
+}
+.container .nearby .nearby-item .left .shop-logo {
+  width: 14.9333vw;
+  margin-right: 4.2667vw;
+  margin-top: 5px;
+}
+.container .nearby .nearby-item .right {
+  flex-grow: 1;
+  border-bottom: 1px solid #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.container .nearby .nearby-item .right .shop-title {
+  font-family: PingFangSC-Regular;
+  font-size: 4.2667vw;
+  color: #333333;
+}
+.container .nearby .nearby-item .right .tags {
+  display: flex;
+}
+.container .nearby .nearby-item .right .tags .tag-item {
+  font-family: PingFangSC-Regular;
+  font-size: 3.4667vw;
+  color: #333333;
+  margin-right: 4.2667vw;
+}
+.container .nearby .nearby-item .right .promotion {
+  font-family: PingFangSC-Regular;
+  font-size: 3.4667vw;
+  color: #e93b3b;
+}
+
+.tabbar {
+  position: fixed;
+  bottom: 0;
+  background: #ffffff;
+  box-shadow: 0 -0.2667vw 0.2667vw 0 #f1f1f1;
+  width: 100vw;
+  height: 13.0667vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+.tabbar .item {
+  color: #333333;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tabbar .item.active {
+  color: #1fa4fc;
+}
+.tabbar .item.active .iconfont.one {
+  display: none;
+}
+.tabbar .item.active .iconfont.two {
+  display: inline;
+}
+.tabbar .item .iconfont {
+  font-size: 5.8667vw;
+  margin-bottom: 1.0667vw;
+}
+.tabbar .item .iconfont.one {
+  display: inline;
+}
+.tabbar .item .iconfont.two {
+  display: none;
+}
+.tabbar .item .text {
+  font-size: 2.6667vw;
+}
